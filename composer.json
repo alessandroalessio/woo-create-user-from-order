@@ -1,6 +1,7 @@
 {
 	"require": {
 		"getbrevo/brevo-php": "^1.0",
-		"sendinblue/api-v3-sdk": "8.x.x"
+		"phpmailer/phpmailer": "^6.8",
+		"vlucas/phpdotenv": "^5.6"
 	}
 }
